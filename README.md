@@ -1,1 +1,7 @@
 # skincancermnist
+
+1. create folder /data in you source directory
+
+2. the data processer file retrives files from data/hom10000_images_part1
+
+3. you can edit the first line of 1dataeng.ipynb
